@@ -75,10 +75,16 @@ Get the latest release here: [Download Incredible OS](https://drive.google.com/f
 
 ## Screenshots
 
-![Home Screen](https://via.placeholder.com/400x800)
-![Settings](https://via.placeholder.com/400x800)
-
-![Home Screen - Real Screenshot](attachment:/mnt/data/photo_10_2025-01-19_16-00-23.jpg)
+![Screenshot 1](incredibleOS-A14_m30s/screenshots/photo_1_2025-01-19_16-00-23.jpg)
+![Screenshot 2](incredibleOS-A14_m30s/screenshots/photo_2_2025-01-19_16-00-23.jpg)
+![Screenshot 3](incredibleOS-A14_m30s/screenshots/photo_3_2025-01-19_16-00-23.jpg)
+![Screenshot 4](incredibleOS-A14_m30s/screenshots/photo_4_2025-01-19_16-00-23.jpg)
+![Screenshot 5](incredibleOS-A14_m30s/screenshots/photo_5_2025-01-19_16-00-23.jpg)
+![Screenshot 6](incredibleOS-A14_m30s/screenshots/photo_6_2025-01-19_16-00-23.jpg)
+![Screenshot 7](incredibleOS-A14_m30s/screenshots/photo_7_2025-01-19_16-00-23.jpg)
+![Screenshot 8](incredibleOS-A14_m30s/screenshots/photo_8_2025-01-19_16-00-23.jpg)
+![Screenshot 9](incredibleOS-A14_m30s/screenshots/photo_9_2025-01-19_16-00-23.jpg)
+![Screenshot 10](incredibleOS-A14_m30s/screenshots/photo_10_2025-01-19_16-00-23.jpg)
 
 ---
 
@@ -110,4 +116,3 @@ For any questions or feedback, feel free to reach out:
 - **Email**: [dantanidhiren4@gmail.com](mailto:dantanidhiren4@gmail.com)
 - **GitHub**: [Dhiren507](https://github.com/Dhiren507)
 - **Telegram**:[Dhiren9611](https://t.me/Dhiren507)
-
