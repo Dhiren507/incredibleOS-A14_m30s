@@ -75,16 +75,24 @@ Get the latest release here: [Download Incredible OS](https://drive.google.com/f
 
 ## Screenshots
 
-![Screenshot 1](screenshots/photo_1_2025-01-19_16-00-23.jpg)
-![Screenshot 2](screenshots/photo_2_2025-01-19_16-00-23.jpg)
-![Screenshot 3](screenshots/photo_3_2025-01-19_16-00-23.jpg)
-![Screenshot 4](screenshots/photo_4_2025-01-19_16-00-23.jpg)
-![Screenshot 5](screenshots/photo_5_2025-01-19_16-00-23.jpg)
-![Screenshot 6](screenshots/photo_6_2025-01-19_16-00-23.jpg)
-![Screenshot 7](screenshots/photo_7_2025-01-19_16-00-23.jpg)
-![Screenshot 8](screenshots/photo_8_2025-01-19_16-00-23.jpg)
-![Screenshot 9](screenshots/photo_9_2025-01-19_16-00-23.jpg)
-![Screenshot 10](screenshots/photo_10_2025-01-19_16-00-23.jpg)
+<table>
+  <tr>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_1_2025-01-19_16-00-23.jpg" alt="Screenshot 1" width="200"></td>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_2_2025-01-19_16-00-23.jpg" alt="Screenshot 2" width="200"></td>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_3_2025-01-19_16-00-23.jpg" alt="Screenshot 3" width="200"></td>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_4_2025-01-19_16-00-23.jpg" alt="Screenshot 4" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_5_2025-01-19_16-00-23.jpg" alt="Screenshot 5" width="200"></td>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_6_2025-01-19_16-00-23.jpg" alt="Screenshot 6" width="200"></td>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_7_2025-01-19_16-00-23.jpg" alt="Screenshot 7" width="200"></td>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_8_2025-01-19_16-00-23.jpg" alt="Screenshot 8" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_9_2025-01-19_16-00-23.jpg" alt="Screenshot 9" width="200"></td>
+    <td><img src="incredibleOS-A14_m30s/screenshots/photo_10_2025-01-19_16-00-23.jpg" alt="Screenshot 10" width="200"></td>
+  </tr>
+</table>
 
 ---
 
