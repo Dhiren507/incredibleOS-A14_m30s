@@ -2,6 +2,7 @@
 
 Welcome to **Incredible OS**, a custom ROM ported from the Samsung Galaxy A35 to the Samsung Galaxy M30s. This ROM is designed to bring the latest features and optimizations from the A35 to the M30s, ensuring a smooth and feature-rich user experience.
 
+Incredible OS is a custom ROM designed to breathe new life into older Android devices. With a focus on performance, stability, and the latest features, Incredible OS brings Android 14 support to the Samsung Galaxy M30S, a 4-year-old device. This ROM provides an enhanced user experience with modern features, security updates, and improved performance, making it a great choice for those looking to extend the life of their older smartphones
 ---
 
 ## Features
