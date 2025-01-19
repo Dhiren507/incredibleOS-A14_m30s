@@ -110,17 +110,10 @@ Contributions, bug reports, and feature requests are welcome! Feel free to fork 
   - @Winner3157 for the base
   - The Android porting community for their guidance and support
 
----
-
-## License
-
-This project is released under the [MIT License](LICENSE). Please refer to the LICENSE file for more details.
-
----
 
 ## Feedback and Support
 
 For any questions or feedback, feel free to reach out:
 - **Email**: [dantanidhiren4@gmail.com](mailto:dantanidhiren4@gmail.com)
 - **GitHub**: [Dhiren507](https://github.com/Dhiren507)
-- **Telegram**:[Dhiren9611](https://t.me/Dhiren507)
+- **Telegram**:[Dhiren9611](https://t.me/Dhiren9611)
