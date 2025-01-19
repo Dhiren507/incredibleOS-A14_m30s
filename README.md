@@ -93,7 +93,7 @@ Get the latest release here: [Download Incredible OS](https://drive.google.com/f
     <td><img src="incredibleOS-A14_m30s/screenshots/photo_10_2025-01-19_16-00-23.jpg" alt="Screenshot 10" width="200"></td>
   </tr>
 </table>
-
+<img src="incredibleOS-A14_m30s/screenshots/photo_8_2025-01-19_16-00-23.jpg" alt="Screenshot 8" width="200">
 ---
 
 ## Contributing
