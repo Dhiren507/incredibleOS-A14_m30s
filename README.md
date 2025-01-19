@@ -1,5 +1,3 @@
-# incredibleOS-A14_m30s
-
 # Incredible OS for Samsung Galaxy M30s
 
 Welcome to **Incredible OS**, a custom ROM ported from the Samsung Galaxy A35 to the Samsung Galaxy M30s. This ROM is designed to bring the latest features and optimizations from the A35 to the M30s, ensuring a smooth and feature-rich user experience.
@@ -80,7 +78,7 @@ Get the latest release here: [Download Incredible OS](https://drive.google.com/f
 ![Home Screen](https://via.placeholder.com/400x800)
 ![Settings](https://via.placeholder.com/400x800)
 
-*(Replace these placeholders with actual screenshots of the ROM in action.)*
+![Home Screen - Real Screenshot](attachment:/mnt/data/photo_10_2025-01-19_16-00-23.jpg)
 
 ---
 
@@ -100,6 +98,9 @@ Contributions, bug reports, and feature requests are welcome! Feel free to fork 
 
 ---
 
+## License
+
+This project is released under the [MIT License](LICENSE). Please refer to the LICENSE file for more details.
 
 ---
 
@@ -109,3 +110,4 @@ For any questions or feedback, feel free to reach out:
 - **Email**: [dantanidhiren4@gmail.com](mailto:dantanidhiren4@gmail.com)
 - **GitHub**: [Dhiren507](https://github.com/Dhiren507)
 - **Telegram**:[Dhiren9611](https://t.me/Dhiren507)
+
